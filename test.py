@@ -1,3 +1,2 @@
-print("this is testing")
-print("this is located at the newBranch")
-print("this is what I added from the terminal")
+for x  in range(10):
+	print("this!")
